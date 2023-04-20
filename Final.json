@@ -1,0 +1,32 @@
+[
+    {
+      "Make": "Toyota",
+      "Model": "LandCruiser",
+      "Status": "Import"
+    },
+    {
+    "Make": "Jeep",
+    "Model": "Wagoneer",
+    "Status": "Domestic"
+   },
+   {
+    "Make": "Ford",
+    "Model": "Bronco",
+    "Status": "Domestic"
+   },
+   {
+    "Make": "Mitsubishi",
+    "Model": "Montero",
+    "Status": "Import"
+   },
+   {
+    "Make": "Mercedes",
+    "Model": "300GD",
+    "Status": "Import"
+   },
+   {
+    "Make": "Chevy",
+    "Model": "Blazer",
+    "Status": "Domestic"
+   }
+ ]
